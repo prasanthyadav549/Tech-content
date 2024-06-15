@@ -1,0 +1,14 @@
+git clone gitrepourl
+$ git reset --hard [commit hash]    example commit hash value --> 5a49dc9
+
+now remove the git remote 
+
+rm -rf .git   --> removes the existing git remote 
+
+create the new repository in the github 
+
+git add .
+git commit -m commit name 
+git branch -M main
+git remote add origin  git_url
+git push
