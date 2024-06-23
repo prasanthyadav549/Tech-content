@@ -1,0 +1,1 @@
+https://medium.com/@ramdhas/3-liskov-substitution-principle-lsp-solid-principle-fc23a473939c
